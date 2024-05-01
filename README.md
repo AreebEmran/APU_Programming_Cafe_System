@@ -5,7 +5,7 @@
 Welcome to the Programming Cafe Management System which is a project well-built to be of aid in the running as well as to be a teacher to those learning in a coding cafe. The C program will act as a web portal, which will maintain the inquiries of the tutors, students, and administrators as well as allow the students to easily enroll in the java and C++ courses offered in the coffee shop.
 
 
-The Programming Cafe Management System caters to the diverse needs of stakeholders within the cafe, providing tailored functionalities for each user role: The Programming Cafe Management System caters to the diverse needs of stakeholders within the cafe, providing tailored functionalities for each user role:
+The Programming Cafe Management System caters to the diverse needs of stakeholders within the cafe, providing tailored functionalities for each user role: 
 
 
 Tutors: The tutors can use the app to post courses and to develop lesson plans, enroll and administer the students, and track their progress. They could come up with engaging and interactive teaching tools for programming language lessons, post study materials, and manage the tests for students who have enrolled.
